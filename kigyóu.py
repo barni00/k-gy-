@@ -9,7 +9,7 @@ height = 600
 black=pygame.Color(255,255,255)
 green=pygame.Color(255,0,255) 
 red=pygame.Color(255,0,0)
-white=pygame.Color(0,0,0)
+white=pygame.Color(0,255,0)
 score=0
 
 
